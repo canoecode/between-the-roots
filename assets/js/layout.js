@@ -11,7 +11,8 @@
       key: "about", label: "About Us", href: "our-story.html",
       children: [
         { key: "our-story", label: "Our Story", href: "our-story.html" },
-        { key: "our-team", label: "Our Team", href: "our-team.html" },
+        { key: "our-team", label: "Founders", href: "our-team.html" },
+        { key: "current-ris-leadership", label: "Current RIS Leadership", href: "current-ris-leadership.html" },
         { key: "our-partners", label: "Our Partners", href: "our-partners.html" },
         { key: "our-achievements", label: "Our Achievements", href: "our-achievements.html" }
       ]
